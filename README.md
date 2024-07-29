@@ -38,9 +38,9 @@ To use this project, follow these steps:
 ├── style.css
 └── script.js
 
-`index.html`: The main HTML file that contains the structure of the web page.
-`style.css`: The CSS file that styles the HTML elements.
-`script.js`: The JavaScript file that handles the execution of the code and UI interactions.
+- `index.html`: The main HTML file that contains the structure of the web page.
+- `style.css`: The CSS file that styles the HTML elements.
+- `script.js`: The JavaScript file that handles the execution of the code and UI interactions.
 
 
 
